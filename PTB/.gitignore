@@ -1,0 +1,8 @@
+data
+.project
+.pydevproject
+cv
+*.npy
+*.npz
+*.pyc
+*.hist
